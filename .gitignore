@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+
+# Vite
+.vite/
+
+# Java
+target/
+*.class
+*.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
